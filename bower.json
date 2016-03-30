@@ -1,0 +1,22 @@
+{
+  "name": "kevin.biesbrock.com",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kevin Biesbrock"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kbiesbrock/kevin.biesbrock.com",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}
